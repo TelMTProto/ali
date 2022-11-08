@@ -25,5 +25,5 @@ TLS_DOMAIN = "web.russop.it"
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "d1cd833e886347155cc292f899891ef7"
 
-#7gAAAAAAAAAAAAAAAAAAAAB3d3cuSGlkZVByb3hpLmlv
+#ee32b920dffb51643028e2f6b878d4eac17765622e727573736f702e6974
 #curl -o MTProo.sh -L https://git.io/fjo3u && bash MTProo.sh --port 443 --secret 00000000000000000000000000000000 --tag 8bd7c59cd625d7991b86a77dfbc5fcff --tls www.HideProxi.io --disable-updater
